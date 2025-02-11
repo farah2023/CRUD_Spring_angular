@@ -4,20 +4,20 @@
 ![Register](screens/image1.png)
 
 ### La page login
-![Login](screenshots/image2.png)
+![Login](screens/image2.png)
 
 ### home page for users
-![USERs](screenshots/image3.png)
+![USERs](screens/image3.png)
 ### home page for Admin
-![ADMIN](screenshots/img5.png)
+![ADMIN](screens/img5.png)
 ### Add movie
-![ADDING MOVIE](screenshots/img4.png)
+![ADDING MOVIE](screens/img4.png)
 
 ### Update movie
-![UPDATE](screenshots/img6.png)
+![UPDATE](screens/img6.png)
 
 ### Delete movie
-![DELETE](screenshots/img7.png)
+![DELETE](screens/img7.png)
 
 ## 🛠 Technologies utilisées
 - Spring Boot
